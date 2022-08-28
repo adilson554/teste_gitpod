@@ -5,5 +5,5 @@ class Usuario:
         self.telefone = telefone
 
 
-meu = Usuario(123, 'Meu Nome Completo', 99999999999)
+meu = Usuario(123, 'Meu Nome Completo', 99999999998)
 
